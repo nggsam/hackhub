@@ -1,0 +1,25 @@
+HackHub 01/25/2015 report
+# First Meeting!
+
+## Members: gessha, exfoxz
+## Currents:
+1. exfoxz
+    * learning Golang and its concurrency model: fun!
+    * thinking of building goTub: streaming music from Youtube with a server written in Golang
+2. gessha
+    * learning Haskell: functional language
+        * tower of Hanoi problem solution with Haskell
+        * quicksort with Haskell: beautiful!
+        * sleepsort: pure genius! How to optimize?
+        * The parable of the Two Programmers: [Here](http://goo.gl/AoQjCU)
+
+## Comings:
+1. exfoxz
+    * continue the journey with Golang
+    * goTube???
+2. gessha
+    * finish hangman game in Java/JS
+    * Space Invaders in Java/JS
+
+That's it :D
+     
